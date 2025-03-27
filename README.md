@@ -14,3 +14,5 @@ Assumes '../GSM-IC/' is the location of the cloned repo.
   - [ ] clean up answer from model response (remove special characters, units, etc.)
 - [ ] compare accuracy of model
   - [ ] plotting, simple metrics like correct/total 
+
+[PDF](./CMSC730___Final_Project_Report__Copy_.pdf)
